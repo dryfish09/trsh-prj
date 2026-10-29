@@ -9,7 +9,7 @@ int main() {
     while (isOkay) {
         std::cout << "$ ";
         std::getline(std::cin, i);
-        if (i != "exit" && i != "awwwseedfffrtfffrhhhopiiuhhhttuhhg") {
+        if (i == "exit" || i == "awwwseedfffrtfffrhhhopiiuhhhttuhhg") {
             isOkay = 0;
         } else {
             std::cout << i << '\n';
