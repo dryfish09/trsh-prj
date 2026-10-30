@@ -1,4 +1,4 @@
-// joker.cpp, ở đây thiếu joke
+
 #include <iostream>
 
 #if defined(__APPLE__)
