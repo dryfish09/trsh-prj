@@ -15,7 +15,7 @@ int main() {
     log_info("go to school... done");
     log_info("oh my god, my \"crush\", she so beautiful!");
     log_info("saying hello... done");
-    log_error("she ignores my", "FATAL");
+    log_error("she ignores me", "FATAL");
     log_info("preparing dependencies for first subject");
     log_info("listening teacher");
     log("looking for her actions", "EYE");
